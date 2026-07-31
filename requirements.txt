@@ -1,0 +1,9 @@
+keyboard
+pyautogui
+pydirectinput
+pynput
+pyperclip
+numpy
+opencv-python
+ddddocr
+pyinstaller

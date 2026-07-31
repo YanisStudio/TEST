@@ -1,0 +1,580 @@
+{
+  "name": "彎曲的時間",
+  "precst": 1.5,
+  "actions": [
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.085,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+v",
+      "mouse_btn": "right",
+      "hold": 0.131,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.116,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+up",
+      "mouse_btn": "right",
+      "hold": 0.13,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.069,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+up",
+      "mouse_btn": "right",
+      "hold": 0.099,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.07,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+up",
+      "mouse_btn": "right",
+      "hold": 0.099,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.069,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+up",
+      "mouse_btn": "right",
+      "hold": 0.067,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.103,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+up",
+      "mouse_btn": "right",
+      "hold": 0.097,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.069,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+up",
+      "mouse_btn": "right",
+      "hold": 0.101,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.067,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+up",
+      "mouse_btn": "right",
+      "hold": 0.098,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.1,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+up",
+      "mouse_btn": "right",
+      "hold": 0.067,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.101,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+up",
+      "mouse_btn": "right",
+      "hold": 0.066,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 3.242,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left",
+      "mouse_btn": "right",
+      "hold": 0.025,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 2.025,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+up",
+      "mouse_btn": "right",
+      "hold": 0.496,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+up+v",
+      "mouse_btn": "right",
+      "hold": 0.195,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+up",
+      "mouse_btn": "right",
+      "hold": 0.239,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+up",
+      "mouse_btn": "right",
+      "hold": 0.069,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left",
+      "mouse_btn": "right",
+      "hold": 2.234,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 0.099,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left",
+      "mouse_btn": "right",
+      "hold": 0.418,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 0.097,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left",
+      "mouse_btn": "right",
+      "hold": 0.274,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+down+left",
+      "mouse_btn": "right",
+      "hold": 0.035,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+down",
+      "mouse_btn": "right",
+      "hold": 0.527,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+down+v",
+      "mouse_btn": "right",
+      "hold": 0.322,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+down",
+      "mouse_btn": "right",
+      "hold": 0.242,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 3.146,
+      "delay": 0.689,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.331,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down+z",
+      "mouse_btn": "right",
+      "hold": 0.416,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.373,
+      "delay": 0.996,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 2.941,
+      "delay": 0.372,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.523,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down+z",
+      "mouse_btn": "right",
+      "hold": 0.257,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.562,
+      "delay": 0.395,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 3.104,
+      "delay": 0.758,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.486,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down+z",
+      "mouse_btn": "right",
+      "hold": 0.32,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.656,
+      "delay": 0.427,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 2.623,
+      "delay": 0.215,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.552,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down+z",
+      "mouse_btn": "right",
+      "hold": 0.322,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.498,
+      "delay": 0.553,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 2.879,
+      "delay": 0.339,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.584,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down+z",
+      "mouse_btn": "right",
+      "hold": 0.256,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.31,
+      "delay": 0.742,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 2.848,
+      "delay": 0.348,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.389,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down+z",
+      "mouse_btn": "right",
+      "hold": 0.32,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 1.1,
+      "delay": 0.182,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 0.585,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left",
+      "mouse_btn": "right",
+      "hold": 0.119,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 3.369,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.01,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right+v",
+      "mouse_btn": "right",
+      "hold": 5.542,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "right+v",
+      "mouse_btn": "right",
+      "hold": 0.01,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "right",
+      "mouse_btn": "right",
+      "hold": 1.571,
+      "delay": 0.0,
+      "repeat": 1
+    }
+  ],
+  "skills": [
+    {
+      "key": "1",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "2",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "3",
+      "cooldown": 150.0,
+      "cast": 1.6
+    },
+    {
+      "key": "4",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "5",
+      "cooldown": 150.0,
+      "cast": 1.6
+    },
+    {
+      "key": "6",
+      "cooldown": 60.0,
+      "cast": 0.1
+    }
+  ],
+  "detect": {
+    "enabled": true,
+    "confidence": "0.65",
+    "interval": "1.0",
+    "resume": "3.0"
+  }
+}

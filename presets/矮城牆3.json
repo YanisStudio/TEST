@@ -1,0 +1,172 @@
+{
+  "name": "矮城牆3",
+  "precst": 1.5,
+  "actions": [
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 0.305,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right",
+      "mouse_btn": "right",
+      "hold": 0.114,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right+v",
+      "mouse_btn": "right",
+      "hold": 5.647,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right+up+v",
+      "mouse_btn": "right",
+      "hold": 0.101,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+up+v",
+      "mouse_btn": "right",
+      "hold": 0.412,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+up+v",
+      "mouse_btn": "right",
+      "hold": 0.101,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 6.126,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+v",
+      "mouse_btn": "right",
+      "hold": 0.01,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.239,
+      "delay": 0.037,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.369,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down+z",
+      "mouse_btn": "right",
+      "hold": 0.319,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down",
+      "mouse_btn": "right",
+      "hold": 0.086,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "down+left",
+      "mouse_btn": "right",
+      "hold": 0.01,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.438,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left+z",
+      "mouse_btn": "right",
+      "hold": 0.121,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 1.068,
+      "delay": 0.0,
+      "repeat": 1
+    }
+  ],
+  "skills": [
+    {
+      "key": "1",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "2",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "3",
+      "cooldown": 150.0,
+      "cast": 1.6
+    },
+    {
+      "key": "4",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "5",
+      "cooldown": 150.0,
+      "cast": 1.6
+    },
+    {
+      "key": "6",
+      "cooldown": 60.0,
+      "cast": 0.1
+    }
+  ],
+  "detect": {
+    "enabled": true,
+    "confidence": "0.6",
+    "interval": "1.0",
+    "resume": "3.0"
+  }
+}

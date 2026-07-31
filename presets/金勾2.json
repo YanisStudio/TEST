@@ -1,0 +1,180 @@
+{
+  "name": "金勾2",
+  "precst": 1.5,
+  "actions": [
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 0.121,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right",
+      "mouse_btn": "right",
+      "hold": 0.052,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right+v",
+      "mouse_btn": "right",
+      "hold": 8.527,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+right+v",
+      "mouse_btn": "right",
+      "hold": 0.04,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 1.997,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+up+v",
+      "mouse_btn": "right",
+      "hold": 0.067,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+up+v",
+      "mouse_btn": "right",
+      "hold": 0.543,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.035,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 3.389,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.04,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right+v",
+      "mouse_btn": "right",
+      "hold": 2.151,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+down+right+v",
+      "mouse_btn": "right",
+      "hold": 0.01,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+down+v",
+      "mouse_btn": "right",
+      "hold": 0.666,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+down+left+v",
+      "mouse_btn": "right",
+      "hold": 0.044,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 5.36,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left",
+      "mouse_btn": "right",
+      "hold": 0.032,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "left",
+      "mouse_btn": "right",
+      "hold": 0.022,
+      "delay": 0.0,
+      "repeat": 1
+    }
+  ],
+  "skills": [
+    {
+      "key": "1",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "2",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "3",
+      "cooldown": 150.0,
+      "cast": 1.6
+    },
+    {
+      "key": "4",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "5",
+      "cooldown": 150.0,
+      "cast": 1.6
+    },
+    {
+      "key": "6",
+      "cooldown": 60.0,
+      "cast": 0.1
+    }
+  ],
+  "detect": {
+    "enabled": true,
+    "confidence": "0.6",
+    "interval": "1.0",
+    "resume": "3.0"
+  }
+}

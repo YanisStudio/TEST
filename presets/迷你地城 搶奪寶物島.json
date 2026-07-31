@@ -1,0 +1,228 @@
+{
+  "name": "迷你地城 搶奪寶物島",
+  "precst": 1.5,
+  "actions": [
+    {
+      "type": "key",
+      "key": "alt",
+      "mouse_btn": "right",
+      "hold": 0.057,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right",
+      "mouse_btn": "right",
+      "hold": 0.077,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right+v",
+      "mouse_btn": "right",
+      "hold": 6.044,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+right+v",
+      "mouse_btn": "right",
+      "hold": 0.037,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 2.455,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.01,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+up+v",
+      "mouse_btn": "right",
+      "hold": 0.641,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.036,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+up+v",
+      "mouse_btn": "right",
+      "hold": 0.067,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.225,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 0.326,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.194,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+up+v",
+      "mouse_btn": "right",
+      "hold": 0.449,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.539,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 0.764,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.042,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+right+v",
+      "mouse_btn": "right",
+      "hold": 1.024,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.066,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+down+v",
+      "mouse_btn": "right",
+      "hold": 1.24,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.803,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+left+v",
+      "mouse_btn": "right",
+      "hold": 2.763,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "alt+v",
+      "mouse_btn": "right",
+      "hold": 0.049,
+      "delay": 0.0,
+      "repeat": 1
+    },
+    {
+      "type": "key",
+      "key": "v",
+      "mouse_btn": "right",
+      "hold": 0.01,
+      "delay": 0.0,
+      "repeat": 1
+    }
+  ],
+  "skills": [
+    {
+      "key": "1",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "2",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "3",
+      "cooldown": 150.0,
+      "cast": 1.6
+    },
+    {
+      "key": "4",
+      "cooldown": 300.0,
+      "cast": 1.6
+    },
+    {
+      "key": "5",
+      "cooldown": 150.0,
+      "cast": 1.6
+    },
+    {
+      "key": "6",
+      "cooldown": 60.0,
+      "cast": 0.1
+    }
+  ],
+  "detect": {
+    "enabled": true,
+    "confidence": "0.6",
+    "interval": "1.0",
+    "resume": "3.0"
+  }
+}
